@@ -1,0 +1,11 @@
+i	PRP
+want	VBP
+to	TO
+book	VB
+you	PRP
+next	JJ
+thursday	NN
+.	.
+
+	
+
